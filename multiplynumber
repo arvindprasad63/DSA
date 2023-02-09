@@ -1,0 +1,41 @@
+// Incressing number program
+// // var n = 'I Love You';
+// for(var n=0; n<=100; n++)
+// console.log('I Love You');
+
+// Multiplication
+
+// for(var n=1; n<=10; n++){
+//     var tableof = 25;
+//     console.log(tableof + ' * ' + n + ' = ' + tableof * n);
+// }
+
+
+// Template Leterals
+
+// for(let n=1; n<=10; n++){
+//     let tableof = 12;
+//     console.log(` ${tableof} * ${n} = ${tableof * n}`);
+// }
+
+
+// Dfault Parameters
+
+// function mult(a,b){
+//     return a*b;
+// }
+// console.log(mult(3,8)); // 24
+
+// function mult(a,b){
+//     return a*b;
+// }
+// console.log(mult(3,)); //NaN
+
+// Default Parameter
+
+// function mult(a,b=4){
+//     return a*b;
+// }
+// console.log(mult(3,));  ///12
+
+
